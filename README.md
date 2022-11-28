@@ -1,6 +1,8 @@
 # Reverse-Visual-Search
 Reverse Visual Search System on MS COCO mini dataset.
 
+[Google drive with data set and notebooks](https://drive.google.com/drive/folders/1o72ar3K5DLBf8Sc7DPSybvJyJKFr9ahC?usp=sharing)
+
 # Set up
 This set up works in a linux development environment, and
 assumes Tensorflow 2.5 or better has already been installed
@@ -31,7 +33,7 @@ python -m pip install .
 ```
 
 # Getting the persons bounding boxes in the dataset
-[This notebook] goes through the process of extracting the 
+[This notebook](https://colab.research.google.com/drive/1-6wAM9ni6d0o9i2tVXoZ2_aoYh9jmDnC?usp=sharing) goes through the process of extracting the 
 bounding boxes of only the persons in the data set and outputs
 them to a json file.
 
